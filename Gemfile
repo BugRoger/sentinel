@@ -18,3 +18,7 @@ gem 'jquery-rails',   '~> 1.0.14'
 group :test, :development do
   gem 'rspec-rails', '~> 2.6'
 end
+
+group :development do
+  gem 'foreman',     '~> 0.22.0'
+end
