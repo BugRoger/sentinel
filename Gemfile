@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 gem 'rails',          '3.1.0'
 gem 'mongo_mapper',   '~> 0.9.1'
-gem 'bson_ext'        '~> 1.3.1'
+gem 'bson_ext',       '~> 1.3.1'
 
 gem 'haml',           '~> 3.1.2'
 gem 'haml-rails',     '~> 0.3.4'
